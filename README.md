@@ -1,0 +1,3 @@
+# Computer Vision Course
+
+Welcome to our Computer Vision in Python course! In this course, you will learn the fundamental concepts and techniques of computer vision using the Python programming language. We will will use popular libraries such as OpenCV, scikit-image, and PyTorch. By the end of this course, you will have a solid understanding of computer vision and be able to apply this knowledge to real-world problems. So, whether you're a beginner just getting started with computer vision or an experienced developer looking to expand your skills, this course is for you. Let's get started!
